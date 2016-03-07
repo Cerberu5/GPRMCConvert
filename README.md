@@ -1,5 +1,5 @@
 # GPRMCConvert
-GPRMC/NMEA Sentence to Long/Lat converter
+GPRMC/NMEA Sentence to Long/Lat converter. Useful for inputting raw GPS data into Google Maps.
 
 ##Syntax:
 `gprmcconvert.py $GPRMC,225446,A,4916.45,N,12311.12,W,000.5,054.7,191194,020.3,E*68`
